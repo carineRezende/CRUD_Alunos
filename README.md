@@ -1,7 +1,7 @@
 ## Sistema de Cadastro de Alunos
 
 Projeto simples de frontend (HTML, Bootstrap e JavaScript puro) que simula um sistema de gestão de alunos. 
-Ele permite cadastrar novos alunos, visualizar a lista em uma tabela e possui funcionalidades de edição e exclusão (simuladas ou via API).
+Ele permite cadastrar novos alunos, visualizar a lista em uma tabela e possui funcionalidades de edição e exclusão utilizando a API REST pública.
 
 ## Tecnologias
 
