@@ -19,5 +19,7 @@ Ele permite cadastrar novos alunos, visualizar a lista em uma tabela e possui fu
 ## Estrutura de Arquivos
 /
 ├── index.html          # Onde está a estrutura do Formulário e da Tabela.
+
 ├── script.js           # Lógica JavaScript para manipulação da lista de alunos.
+
 └── README.md           # Este arquivo.
