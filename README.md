@@ -16,3 +16,6 @@ A aplicação simula o ciclo de vida dos dados, oferecendo todas as operações 
 * Botões de ação "Editar" e "Excluir" (CRUD simulado).
 * Design responsivo com Grid e visual moderno (tema escuro).
 
+
+##Site publicado no Vercel 
+https://cadastroalunos-iota.vercel.app/
